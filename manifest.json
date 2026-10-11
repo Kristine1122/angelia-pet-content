@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-11T17:45:00+08:00",
+  "delivery": {
+    "minimumDelayMinutes": 30,
+    "maximumDelayMinutes": 240,
+    "itemsPerDelivery": 1,
+    "desktopFilenamePrefix": "来自f(x)=e^x的小纸条",
+    "keepExistingFiles": true,
+    "showPopup": false
+  },
+  "texts": "texts.json",
+  "images": [
+    "images/0376535A5ED5061AED1DE5376317AE8B.gif",
+    "images/微信图片_2026-10-10_152247_565.jpg",
+    "images/18ED7BD0F73788D50A5DAC5CB174F4EB.gif",
+    "images/741C7F099E5E18ED2207D71B236260AD.gif",
+    "images/54976CD16DF2A5B40DDEC54576A8900A.gif",
+    "images/D4AE0F3E5940EDA33787DC9C1AD88F4B.gif",
+    "images/27B07D484A3C80E20F8A9A921E0B27EE.gif",
+    "images/5188E224002152707EA3EB8B978C68FC.png",
+    "images/9e8fd9080a2a0aa9564c08966b435efc.jpg",
+    "images/AD242339B60C95ED0048FD2E13409FD5.jpg",
+    "images/226486992CB673D8B2C5198E35CB520E.gif",
+    "images/9BB5122DB64974919C993CE5319AA14A.gif",
+    "images/3BB0FCD2F5C9775DE80571D0D003B230.jpg",
+    "images/7BF092FA229AF6AC73EBB30CF950F2C6.jpg",
+    "images/702D7A36EF0716EB1C1865FC7DC3F46A.gif",
+    "images/A9CD5327C58E881724A37870C603711D.gif",
+    "images/7D331FE99106B27DF7AA1D192863A416.jpg",
+    "images/969291D9238611711340BE3F85CB97DF.jpg",
+    "images/701EBF193BBA52A676BFA16E8F0610F8.jpg",
+    "images/DE8A25250F31F302ADC0A588C9BBAE50.jpg",
+    "images/C1C167646962D6C48455694B9E201322.gif",
+    "images/34A72039E9404C5C48972C9DE2DABB78.gif"
+  ]
+}
